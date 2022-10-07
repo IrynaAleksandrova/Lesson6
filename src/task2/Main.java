@@ -18,8 +18,8 @@ public class Main {
     Computer computer1 = new Computer(5000, "LG");
     System.out.println(computer1.informationComputer());
     System.out.println();
-    Computer computer2 = new Computer(4500, "HP", new RAM("VV", 8 ),
-        new HDD("WW", 12.00, "Intellect"));
+    Computer computer2 = new Computer(4500, "HP", new RAM("VV", 8.0),
+        new HDD("WW", 12.0, "Intellect"));
     System.out.println(computer2.informationComputer());
   }
 }

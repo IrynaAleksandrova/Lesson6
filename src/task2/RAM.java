@@ -5,7 +5,7 @@ public class RAM {
   double volume;
   public RAM() {
   }
-  public RAM(String name, int volume) {
+  public RAM(String name, double volume) {
     this.name = name;
     this.volume = volume;
   }
