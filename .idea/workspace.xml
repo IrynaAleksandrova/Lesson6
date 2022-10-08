@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="a80586c8-a69c-4cde-acba-10d1104649a3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/HDD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/HDD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/RAM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/RAM.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/TeachMeSkills/Projects/Lesson6-master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -87,6 +94,11 @@
       <option name="presentableId" value="Default" />
       <updated>1665120812238</updated>
       <workItem from="1665120813873" duration="12598000" />
+      <workItem from="1665216607315" duration="27000" />
+      <workItem from="1665216657202" duration="37000" />
+      <workItem from="1665216721441" duration="41000" />
+      <workItem from="1665216810353" duration="135000" />
+      <workItem from="1665217027674" duration="90000" />
     </task>
     <servers />
   </component>
